@@ -122,8 +122,16 @@ const justine = {
     <td width="40%" align="center">
       <br/>
         <p>
-          <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Demo-0D47A1?style=flat-square&logo=vercel&logoColor=white"/>
+          <div>
+            <a href="https://github.com/justinesam23/CartLy">
+              <img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white"/>
+            </a>
+          </div>
+          <div>
+            <a href="https://your-live-demo-link.com">
+              <img src="https://img.shields.io/badge/Live_Demo-0D47A1?style=flat-square&logo=vercel&logoColor=white"/>
+            </a>
+          </div>
         </p>
     </td>
   </tr>
