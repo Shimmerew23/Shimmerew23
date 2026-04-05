@@ -8,10 +8,10 @@
   comprehensive security, and modern editorial UI design.
 </p>
 
-<a href="https://github.com/justinesam023">
-  <img src="https://img.shields.io/github/followers/justinesam023?label=Followers&style=flat-square&color=1A237E&labelColor=0D1117" alt="GitHub Followers"/>
+<a href="https://github.com/Shimmerew23">
+  <img src="https://img.shields.io/github/followers/Shimmerew23?label=Followers&style=flat-square&color=1A237E&labelColor=0D1117" alt="GitHub Followers"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=justinesam023&style=flat-square&color=1A237E" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Shimmerew23&style=flat-square&color=1A237E" alt="Profile Views"/>
 
 </div>
 
@@ -156,15 +156,15 @@ const justine = {
 ## GitHub Stats
 
 <div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=justinesam023&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A237E&icon_color=635BFF&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Shimmerew23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A237E&icon_color=635BFF&text_color=ffffff&count_private=true" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinesam023&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A237E&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shimmerew23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A237E&text_color=ffffff&langs_count=8" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justinesam023&theme=tokyonight&hide_border=true&background=0D1117&stroke=1A237E&ring=635BFF&fire=635BFF&currStreakLabel=ffffff&sideLabels=ffffff&dates=999999" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shimmerew23&theme=tokyonight&hide_border=true&background=0D1117&stroke=1A237E&ring=635BFF&fire=635BFF&currStreakLabel=ffffff&sideLabels=ffffff&dates=999999" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -175,9 +175,9 @@ const justine = {
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-justineacosta.vercel.app-1A237E?style=for-the-badge&logo=vercel&logoColor=white)](https://justineacosta.vercel.app)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-justinesam023-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/justinesam023)
+[![GitHub](https://img.shields.io/badge/GitHub-Shimmerew23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shimmerew23)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-justinesam023-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/justinesam023)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shimmerew23-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Shimmerew23)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-justine.psalm23@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justine.psalm23@gmail.com)
 
