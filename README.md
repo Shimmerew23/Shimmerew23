@@ -76,6 +76,7 @@ const justine = {
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /> 
 <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Render-1F1F1F?style=flat-square&logo=render&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Cloudinary-1434C8?style=flat-square&logo=cloudinary&logoColor=white"/>
 
 <!-- Testing & QA -->  
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> 
@@ -127,13 +128,19 @@ const justine = {
           <br/>
           <h3 align="center">🚀 Tech Stack</h3>
             <p>
-              <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-              <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white"/>
-              <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-              <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
               <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+              <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+              <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Cloudinary-1434C8?style=flat-square&logo=cloudinary&logoColor=white"/>
+              <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+              <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" /> 
+              <img src="https://img.shields.io/badge/OAuth2-4285F4?style=flat-square&logo=oauth&logoColor=white" /> 
+              <img src="https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=black" />
+              <img src="https://img.shields.io/badge/Helm-0F3676?style=flat-square&logo=helm&logoColor=white" />  
               <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
               <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" /> 
             </p>
           </div>
         </p>
