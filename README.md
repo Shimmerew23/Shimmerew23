@@ -63,7 +63,6 @@ const justine = {
 <!-- Auth & Security --> 
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white"/> 
-<img src="https://img.shields.io/badge/OAuth2-4285F4?style=flat-square&logo=oauth&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=black" /> 
 </p>
 
@@ -94,7 +93,7 @@ const justine = {
 <table>
   <tr>
     <td width="60%">
-      <h3>🛒 CartLy — Full-Stack eCommerce Platform</h3>
+      <h3>🛒 <a href="https://supplement-store-demo.vercel.app" target="_blank">CartLy — Full-Stack eCommerce Platform</a></h3>
       <p>
         A <strong>production-grade MERN eCommerce platform</strong> with enterprise-level architecture,
         multi-role access control, real-time payments, and a modern editorial UI.
@@ -137,7 +136,6 @@ const justine = {
               <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
               <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
               <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white"/> 
-              <img src="https://img.shields.io/badge/OAuth2-4285F4?style=flat-square&logo=oauth&logoColor=white" /> 
               <img src="https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=black" />
               <img src="https://img.shields.io/badge/Helm-0F3676?style=flat-square&logo=helm&logoColor=white" />  
               <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
