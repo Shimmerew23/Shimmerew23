@@ -90,7 +90,7 @@ const justine = {
 <table>
   <tr>
     <td width="60%">
-      <h3>🛒 <a href="https://mcartly.vercel.app/" target="_blank">CartLy — Full-Stack eCommerce Platform</a></h3>
+      <h3>🛒 <a href="https://mcartly.vercel.app/">CartLy — Full-Stack eCommerce Platform</a></h3>
       <p>
         A <strong>production-grade MERN eCommerce platform</strong> with enterprise-level architecture,
         multi-role access control, real-time payments, and a modern editorial UI.
