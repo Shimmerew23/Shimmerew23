@@ -89,44 +89,42 @@ const justine = {
 
 ## Featured Project
 
-<h3>🛒 CartLy — Full-Stack eCommerce Platform</h3>
-
-<p>
-A <strong>production-grade MERN eCommerce platform</strong> with enterprise-level architecture,
-multi-role access control, real-time payments, and a modern editorial UI.
-</p>
-
-<p>
-<a href="https://github.com/justinesam23/CartLy">
-  <img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-<a href="https://your-live-demo-link.com">
-  <img src="https://img.shields.io/badge/Live_Demo-0D47A1?style=flat-square&logo=vercel&logoColor=white"/>
-</a>
-</p>
-
-<b>Highlights:</b>
-<ul>
-  <li>5 user roles — Buyer · Seller · Admin · Superadmin · Warehouse</li>
-  <li>JWT access + refresh tokens with Redis blacklisting</li>
-  <li>Google OAuth 2.0 sign-in</li>
-  <li>Stripe PaymentIntents + webhook validation</li>
-  <li>Cloudinary image storage with UUID-namespaced IDs</li>
-  <li>Warehouse parcel scanner with full check-in audit trail</li>
-  <li>Seller approval workflow with email notification</li>
-  <li>Helmet · Rate limiting · XSS · HPP · NoSQL injection protection</li>
-  <li>Docker + Nginx reverse proxy — production-ready</li>
-</ul>
-
-<p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-</p>
+<table>
+  <tr>
+    <td width="60%">
+      <h3>🛒 CartLy — Full-Stack eCommerce Platform</h3>
+      <p>
+        A <strong>production-grade MERN eCommerce platform</strong> with enterprise-level architecture,
+        multi-role access control, real-time payments, and a modern editorial UI.
+      </p>
+      <b>Highlights:</b>
+      <ul>
+        <li>5 user roles — Buyer · Seller · Admin · Superadmin · Warehouse</li>
+        <li>JWT access + refresh tokens with Redis blacklisting</li>
+        <li>Google OAuth 2.0 sign-in</li>
+        <li>Stripe PaymentIntents + webhook validation</li>
+        <li>Cloudinary image storage with UUID-namespaced IDs</li>
+        <li>Warehouse parcel scanner with full check-in audit trail</li>
+        <li>Seller approval workflow with email notification</li>
+        <li>Helmet · Rate limiting · XSS · HPP · NoSQL injection protection</li>
+        <li>Docker + Nginx reverse proxy — production-ready</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=justinesam23&repo=CartLy&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A237E&text_color=ffffff&icon_color=635BFF" alt="CartLy Repo Card"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
