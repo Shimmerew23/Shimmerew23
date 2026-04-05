@@ -7,10 +7,6 @@
   I build <strong>production-grade full-stack web applications</strong> with clean architecture,<br/>
   comprehensive security, and modern editorial UI design.
 </p>
-
-<a href="https://github.com/Shimmerew23">
-  <img src="https://img.shields.io/github/followers/Shimmerew23?label=Followers&style=flat-square&color=1A237E&labelColor=0D1117" alt="GitHub Followers"/>
-</a>
 <img src="https://komarev.com/ghpvc/?username=Shimmerew23&style=flat-square&color=1A237E" alt="Profile Views"/>
 
 </div>
