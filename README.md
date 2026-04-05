@@ -109,28 +109,30 @@ const justine = {
         <li>Helmet · Rate limiting · XSS · HPP · NoSQL injection protection</li>
         <li>Docker + Nginx reverse proxy — production-ready</li>
       </ul>
-      <p>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      </p>
     </td>
     <td width="40%" align="center">
       <br/>
         <p>
           <div>
-            <a href="https://github.com/justinesam23/CartLy">
+            <a href="https://github.com/Shimmerew23/theCartLy_eCommerce_Platform">
               <img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white"/>
             </a>
           </div>
           <div>
-            <a href="https://your-live-demo-link.com">
+            <a href="https://mcartly.vercel.app/">
               <img src="https://img.shields.io/badge/Live_Demo-0D47A1?style=flat-square&logo=vercel&logoColor=white"/>
             </a>
+          </div>
+          <div>
+            <p>
+              <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white"/>
+              <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+              <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+              <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+            </p>
           </div>
         </p>
     </td>
