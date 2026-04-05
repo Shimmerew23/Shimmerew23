@@ -146,12 +146,8 @@ const justine = {
     </td>
   </tr>
 </table>
-
-Click to view the full project structure:
-
 <details>
   <summary>📂 Show Project Structure</summary>
-
 ```text
 theCartLy/
 ├── backend/
@@ -281,6 +277,7 @@ theCartLy/
 ├── nginx.conf
 └── README.md
 ```
+</details>
 
 ---
 
