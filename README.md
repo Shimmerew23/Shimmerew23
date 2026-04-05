@@ -184,3 +184,140 @@ const justine = {
 <div align="center">
   <sub>Built with precision · Designed with purpose · Secured by default</sub>
 </div>
+
+
+# theCartLy Project Structure
+
+Click to view the full project structure:
+
+<details>
+  <summary>📂 Show Project Structure</summary>
+
+```text
+theCartLy/
+├── backend/
+│   ├── config/
+│   │   ├── cloudinary.js       # Cloudinary client, uploadBuffer (UUID public_id), deleteImage helpers
+│   │   ├── db.js               # MongoDB connection
+│   │   ├── passport.js         # Passport strategies (Google, JWT)
+│   │   └── redis.js            # Redis client setup
+│   ├── controllers/
+│   │   ├── authController.js      # register, login, logout, OAuth, password reset, email verify
+│   │   ├── carrierController.js   # Shipping carrier CRUD
+│   │   ├── orderController.js     # Order create/read/update, Stripe webhook
+│   │   ├── productController.js   # Product CRUD, seller products, wishlist, stats
+│   │   ├── warehouseController.js # Warehouse CRUD + parcel scan + check-in
+│   │   └── index.js               # Re-exports all controller functions
+│   ├── middleware/
+│   │   └── index.js            # authenticate, RBAC, rate limiters, upload (Cloudinary), validate, cache, audit
+│   ├── models/
+│   │   ├── Carrier.js          # Shipping carrier schema
+│   │   ├── Order.js            # Order schema (statusHistory includes warehouseName)
+│   │   ├── Product.js          # Product schema
+│   │   ├── User.js             # User schema (user/seller/admin/superadmin/warehouse)
+│   │   ├── Warehouse.js        # Warehouse entity schema (linked to User manager)
+│   │   └── index.js            # Re-exports all models
+│   ├── routes/
+│   │   └── index.js            # All route definitions (auth, products, orders, admin, etc.)
+│   ├── utils/
+│   │   ├── ApiError.js         # Custom error class
+│   │   ├── ApiResponse.js      # Standardized response wrapper
+│   │   ├── email.js            # Nodemailer email service
+│   │   ├── jwt.js              # JWT sign/verify helpers
+│   │   ├── logger.js           # Winston logger
+│   │   └── seeder.js           # DB seed script
+│   ├── logs/
+│   │   ├── combined.log
+│   │   ├── error.log
+│   │   ├── exceptions.log
+│   │   └── rejections.log
+│   ├── server.js               # Express entry point
+│   ├── .env.example
+│   ├── Dockerfile
+│   └── package.json
+├── frontend/
+│   ├── src/
+│   │   ├── api/
+│   │   │   └── axios.ts        # Axios instance with interceptors + token refresh
+│   │   ├── components/
+│   │   │   ├── auth/
+│   │   │   │   └── ProtectedRoute.tsx
+│   │   │   ├── cart/
+│   │   │   │   └── CartSidebar.tsx
+│   │   │   ├── feedback/
+│   │   │   │   └── FeedbackModal.tsx
+│   │   │   ├── layout/
+│   │   │   │   ├── AdminLayout.tsx
+│   │   │   │   ├── Footer.tsx
+│   │   │   │   ├── MainLayout.tsx
+│   │   │   │   ├── Navbar.tsx
+│   │   │   │   ├── SellerLayout.tsx
+│   │   │   │   └── WarehouseLayout.tsx
+│   │   │   └── products/
+│   │   │       └── ProductCard.tsx
+│   │   ├── hooks/
+│   │   │   └── useOrderStatusUpdate.ts
+│   │   ├── pages/
+│   │   │   ├── BecomeSeller.tsx
+│   │   │   ├── Cart.tsx
+│   │   │   ├── Checkout.tsx
+│   │   │   ├── ForgotPassword.tsx
+│   │   │   ├── Home.tsx
+│   │   │   ├── Login.tsx
+│   │   │   ├── OAuthCallback.tsx
+│   │   │   ├── OrderDetail.tsx
+│   │   │   ├── Orders.tsx
+│   │   │   ├── ProductDetail.tsx
+│   │   │   ├── Products.tsx
+│   │   │   ├── Profile.tsx
+│   │   │   ├── Register.tsx
+│   │   │   ├── ResetPassword.tsx
+│   │   │   ├── Store.tsx
+│   │   │   ├── VerifyEmail.tsx
+│   │   │   ├── Wishlist.tsx
+│   │   │   ├── admin/
+│   │   │   │   ├── AuditLogs.tsx
+│   │   │   │   ├── Carriers.tsx
+│   │   │   │   ├── Categories.tsx
+│   │   │   │   ├── Coupons.tsx
+│   │   │   │   ├── Dashboard.tsx
+│   │   │   │   ├── Feedback.tsx
+│   │   │   │   ├── Orders.tsx
+│   │   │   │   ├── Products.tsx
+│   │   │   │   ├── Users.tsx
+│   │   │   │   └── Warehouses.tsx
+│   │   │   ├── seller/
+│   │   │   │   ├── AddProduct.tsx
+│   │   │   │   ├── Dashboard.tsx
+│   │   │   │   ├── EditProduct.tsx
+│   │   │   │   ├── Orders.tsx
+│   │   │   │   ├── Products.tsx
+│   │   │   │   └── Profile.tsx
+│   │   │   └── warehouse/
+│   │   │       └── Scan.tsx
+│   │   ├── store/
+│   │   │   ├── slices/
+│   │   │   │   ├── authSlice.ts
+│   │   │   │   ├── cartSlice.ts
+│   │   │   │   ├── productSlice.ts
+│   │   │   │   └── uiSlice.ts
+│   │   │   └── index.ts        # Redux store configuration
+│   │   ├── types/
+│   │   │   └── index.ts        # TypeScript interfaces & types
+│   │   ├── utils/
+│   │   │   └── fuzzy.ts        # Fuzzy search utility
+│   │   ├── App.tsx
+│   │   ├── index.css           # Tailwind + custom design system
+│   │   └── main.tsx
+│   ├── Dockerfile
+│   ├── index.html
+│   ├── nginx-spa.conf          # Nginx SPA config
+│   ├── package.json
+│   ├── postcss.config.js
+│   ├── tailwind.config.js
+│   ├── tsconfig.json
+│   ├── tsconfig.node.json
+│   └── vite.config.ts
+├── docker-compose.yml
+├── nginx.conf
+└── README.md
