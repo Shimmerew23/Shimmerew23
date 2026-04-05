@@ -72,7 +72,7 @@ const justine = {
 <!-- DevOps & Cloud --> 
 <p align="center">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Helm-0F3676?style=flat-square&logo=helm&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Helmet-000000?style=flat-square&logo=helmet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" /> 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /> 
@@ -139,7 +139,7 @@ const justine = {
               <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
               <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white"/> 
               <img src="https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=black" />
-              <img src="https://img.shields.io/badge/Helm-0F3676?style=flat-square&logo=helm&logoColor=white" />  
+              <img src="https://img.shields.io/badge/Helmet-000000?style=flat-square&logo=helmet&logoColor=white"/>  
               <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
               <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
               <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
