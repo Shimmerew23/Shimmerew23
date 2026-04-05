@@ -281,6 +281,199 @@ theCartLy/
 ```
 </details>
 
+<table>
+  <tr>
+    <td width="60%">
+      <h3>🛒 <a href="https://mcartly.vercel.app/" target="_blank">CartLy — Full-Stack eCommerce Platform</a></h3>
+      <p>
+        A <strong>production-grade MERN eCommerce platform</strong> with enterprise-level architecture,
+        multi-role access control, real-time payments, and a modern editorial UI.
+      </p>
+      <b>Highlights:</b>
+      <ul>
+        <li>5 user roles — Buyer · Seller · Admin · Superadmin · Warehouse</li>
+        <li>JWT access + refresh tokens with Redis blacklisting</li>
+        <li>Google OAuth 2.0 sign-in</li>
+        <li>Stripe PaymentIntents + webhook validation</li>
+        <li>Cloudinary image storage with UUID-namespaced IDs</li>
+        <li>Warehouse parcel scanner with full check-in audit trail</li>
+        <li>Seller approval workflow with email notification</li>
+        <li>Helmet · Rate limiting · XSS · HPP · NoSQL injection protection</li>
+        <li>Docker + Nginx reverse proxy — production-ready</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <br/>
+        <p>
+          <div>
+            <a href="https://github.com/Shimmerew23/theCartLy_eCommerce_Platform">
+              <img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white"/>
+            </a>
+          </div>
+          <div>
+            <a href="https://mcartly.vercel.app/">
+              <img src="https://img.shields.io/badge/Live_Demo-0D47A1?style=flat-square&logo=vercel&logoColor=white"/>
+            </a>
+          </div>
+          <div>
+          <br/>
+          <h3 align="center">🚀 Tech Stack</h3>
+            <p>
+              <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+              <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+              <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Cloudinary-1434C8?style=flat-square&logo=cloudinary&logoColor=white"/>
+              <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+              <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+              <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white"/> 
+              <img src="https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=black" />
+              <img src="https://img.shields.io/badge/Helmet-000000?style=flat-square&logo=helmet&logoColor=white"/>  
+              <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+              <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/> 
+            </p>
+          </div>
+        </p>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary>📂 Show Project Structure</summary>
+
+```text
+theCartLy/
+├── backend/
+│   ├── config/
+│   │   ├── cloudinary.js       # Cloudinary client, uploadBuffer (UUID public_id), deleteImage helpers
+│   │   ├── db.js               # MongoDB connection
+│   │   ├── passport.js         # Passport strategies (Google, JWT)
+│   │   └── redis.js            # Redis client setup
+│   ├── controllers/
+│   │   ├── authController.js      # register, login, logout, OAuth, password reset, email verify
+│   │   ├── carrierController.js   # Shipping carrier CRUD
+│   │   ├── orderController.js     # Order create/read/update, Stripe webhook
+│   │   ├── productController.js   # Product CRUD, seller products, wishlist, stats
+│   │   ├── warehouseController.js # Warehouse CRUD + parcel scan + check-in
+│   │   └── index.js               # Re-exports all controller functions
+│   ├── middleware/
+│   │   └── index.js            # authenticate, RBAC, rate limiters, upload (Cloudinary), validate, cache, audit
+│   ├── models/
+│   │   ├── Carrier.js          # Shipping carrier schema
+│   │   ├── Order.js            # Order schema (statusHistory includes warehouseName)
+│   │   ├── Product.js          # Product schema
+│   │   ├── User.js             # User schema (user/seller/admin/superadmin/warehouse)
+│   │   ├── Warehouse.js        # Warehouse entity schema (linked to User manager)
+│   │   └── index.js            # Re-exports all models
+│   ├── routes/
+│   │   └── index.js            # All route definitions (auth, products, orders, admin, etc.)
+│   ├── utils/
+│   │   ├── ApiError.js         # Custom error class
+│   │   ├── ApiResponse.js      # Standardized response wrapper
+│   │   ├── email.js            # Nodemailer email service
+│   │   ├── jwt.js              # JWT sign/verify helpers
+│   │   ├── logger.js           # Winston logger
+│   │   └── seeder.js           # DB seed script
+│   ├── logs/
+│   │   ├── combined.log
+│   │   ├── error.log
+│   │   ├── exceptions.log
+│   │   └── rejections.log
+│   ├── server.js               # Express entry point
+│   ├── .env.example
+│   ├── Dockerfile
+│   └── package.json
+├── frontend/
+│   ├── src/
+│   │   ├── api/
+│   │   │   └── axios.ts        # Axios instance with interceptors + token refresh
+│   │   ├── components/
+│   │   │   ├── auth/
+│   │   │   │   └── ProtectedRoute.tsx
+│   │   │   ├── cart/
+│   │   │   │   └── CartSidebar.tsx
+│   │   │   ├── feedback/
+│   │   │   │   └── FeedbackModal.tsx
+│   │   │   ├── layout/
+│   │   │   │   ├── AdminLayout.tsx
+│   │   │   │   ├── Footer.tsx
+│   │   │   │   ├── MainLayout.tsx
+│   │   │   │   ├── Navbar.tsx
+│   │   │   │   ├── SellerLayout.tsx
+│   │   │   │   └── WarehouseLayout.tsx
+│   │   │   └── products/
+│   │   │       └── ProductCard.tsx
+│   │   ├── hooks/
+│   │   │   └── useOrderStatusUpdate.ts
+│   │   ├── pages/
+│   │   │   ├── BecomeSeller.tsx
+│   │   │   ├── Cart.tsx
+│   │   │   ├── Checkout.tsx
+│   │   │   ├── ForgotPassword.tsx
+│   │   │   ├── Home.tsx
+│   │   │   ├── Login.tsx
+│   │   │   ├── OAuthCallback.tsx
+│   │   │   ├── OrderDetail.tsx
+│   │   │   ├── Orders.tsx
+│   │   │   ├── ProductDetail.tsx
+│   │   │   ├── Products.tsx
+│   │   │   ├── Profile.tsx
+│   │   │   ├── Register.tsx
+│   │   │   ├── ResetPassword.tsx
+│   │   │   ├── Store.tsx
+│   │   │   ├── VerifyEmail.tsx
+│   │   │   ├── Wishlist.tsx
+│   │   │   ├── admin/
+│   │   │   │   ├── AuditLogs.tsx
+│   │   │   │   ├── Carriers.tsx
+│   │   │   │   ├── Categories.tsx
+│   │   │   │   ├── Coupons.tsx
+│   │   │   │   ├── Dashboard.tsx
+│   │   │   │   ├── Feedback.tsx
+│   │   │   │   ├── Orders.tsx
+│   │   │   │   ├── Products.tsx
+│   │   │   │   ├── Users.tsx
+│   │   │   │   └── Warehouses.tsx
+│   │   │   ├── seller/
+│   │   │   │   ├── AddProduct.tsx
+│   │   │   │   ├── Dashboard.tsx
+│   │   │   │   ├── EditProduct.tsx
+│   │   │   │   ├── Orders.tsx
+│   │   │   │   ├── Products.tsx
+│   │   │   │   └── Profile.tsx
+│   │   │   └── warehouse/
+│   │   │       └── Scan.tsx
+│   │   ├── store/
+│   │   │   ├── slices/
+│   │   │   │   ├── authSlice.ts
+│   │   │   │   ├── cartSlice.ts
+│   │   │   │   ├── productSlice.ts
+│   │   │   │   └── uiSlice.ts
+│   │   │   └── index.ts        # Redux store configuration
+│   │   ├── types/
+│   │   │   └── index.ts        # TypeScript interfaces & types
+│   │   ├── utils/
+│   │   │   └── fuzzy.ts        # Fuzzy search utility
+│   │   ├── App.tsx
+│   │   ├── index.css           # Tailwind + custom design system
+│   │   └── main.tsx
+│   ├── Dockerfile
+│   ├── index.html
+│   ├── nginx-spa.conf          # Nginx SPA config
+│   ├── package.json
+│   ├── postcss.config.js
+│   ├── tailwind.config.js
+│   ├── tsconfig.json
+│   ├── tsconfig.node.json
+│   └── vite.config.ts
+├── docker-compose.yml
+├── nginx.conf
+└── README.md
+```
+</details>
+
 ---
 
 ## GitHub Stats
