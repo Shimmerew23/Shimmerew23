@@ -147,8 +147,6 @@ const justine = {
   </tr>
 </table>
 
-
-
 <details>
   <summary>📂 Show Project Structure</summary>
 
