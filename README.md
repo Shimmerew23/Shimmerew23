@@ -169,14 +169,6 @@ const justine = {
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=justinesam23&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=635BFF&line=1A237E&point=ffffff" alt="GitHub Activity Graph"/>
-</div>
-
----
-
 ## Connect With Me
 
 <div align="center">
