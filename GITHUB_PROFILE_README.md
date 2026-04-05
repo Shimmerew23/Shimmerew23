@@ -135,7 +135,13 @@ const justine = {
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-justineacosta.vercel.app-1A237E?style=for-the-badge&logo=vercel&logoColor=white)](https://justineacosta.vercel.app)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-justinesam23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/justinesam23)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-justinesam023-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/justinesam023)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-justine.psalm23@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justine.psalm23@gmail.com)
 
 </div>
 
