@@ -147,47 +147,6 @@ const justine = {
   </tr>
 </table>
 
----
-
-## GitHub Stats
-
-<div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Shimmerew23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A237E&icon_color=635BFF&text_color=ffffff&count_private=true" alt=""/>
-  &nbsp;&nbsp;
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shimmerew23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A237E&text_color=ffffff&langs_count=8" alt=""/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shimmerew23&theme=tokyonight&hide_border=true&background=0D1117&stroke=1A237E&ring=635BFF&fire=635BFF&currStreakLabel=ffffff&sideLabels=ffffff&dates=999999" alt="GitHub Streak"/>
-</div>
-
----
-
-## Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-justineacosta.vercel.app-1A237E?style=for-the-badge&logo=vercel&logoColor=white)](https://justineacosta.vercel.app)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Shimmerew23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shimmerew23)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shimmerew23-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Shimmerew23)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-justine.psalm23@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justine.psalm23@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  <sub>Built with precision · Designed with purpose · Secured by default</sub>
-</div>
-
-
-# theCartLy Project Structure
-
 Click to view the full project structure:
 
 <details>
@@ -321,3 +280,42 @@ theCartLy/
 ├── docker-compose.yml
 ├── nginx.conf
 └── README.md
+```
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Shimmerew23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A237E&icon_color=635BFF&text_color=ffffff&count_private=true" alt=""/>
+  &nbsp;&nbsp;
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shimmerew23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A237E&text_color=ffffff&langs_count=8" alt=""/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shimmerew23&theme=tokyonight&hide_border=true&background=0D1117&stroke=1A237E&ring=635BFF&fire=635BFF&currStreakLabel=ffffff&sideLabels=ffffff&dates=999999" alt="GitHub Streak"/>
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-justineacosta.vercel.app-1A237E?style=for-the-badge&logo=vercel&logoColor=white)](https://justineacosta.vercel.app)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Shimmerew23-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shimmerew23)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shimmerew23-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Shimmerew23)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-justine.psalm23@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justine.psalm23@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Built with precision · Designed with purpose · Secured by default</sub>
+</div>
