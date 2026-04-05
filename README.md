@@ -276,8 +276,9 @@ theCartLy/
 ├── docker-compose.yml
 ├── nginx.conf
 └── README.md
-```
 </details>
+```
+
 
 ---
 
