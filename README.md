@@ -33,8 +33,10 @@ const justine = {
 
 ## 🚀 Tech Stack
 
+<h3 align="center">🎨 Frontend</h3>
 <p align="center"> 
 <!-- Frontend --> 
+<p align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> 
@@ -51,8 +53,11 @@ const justine = {
 <img src="https://img.shields.io/badge/FramerMotion-0055FF?style=flat-square&logo=framer&logoColor=white" /> 
 <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" /> 
+</p>
 
+<h3 align="center">⚙️ Backend</h3>
 <!-- Backend --> 
+<p align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" /> 
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" /> 
@@ -82,8 +87,11 @@ const justine = {
 <img src="https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=black" /> 
 <img src="https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Okta-007DC5?style=flat-square&logo=okta&logoColor=white" /> 
+</p>
 
+<h3 align="center">🛠️ DevOps & Tools</h3>
 <!-- DevOps & Cloud --> 
+<p align="center">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Helm-0F3676?style=flat-square&logo=helm&logoColor=white" /> 
@@ -115,7 +123,7 @@ const justine = {
 <img src="https://img.shields.io/badge/Vagrant-1563FF?style=flat-square&logo=vagrant&logoColor=white" /> 
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /> 
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white" /> </p>
-
+</p>
 ---
 
 ## Featured Project
