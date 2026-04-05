@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=700&size=32&duration=3000&pause=1000&color=1A237E&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Justine+%F0%9F%91%8B;Full-Stack+Developer;MERN+Stack+Enthusiast;Building+Production-Grade+Apps" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=700&size=36&duration=2400&pause=800&color=0D47A1&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Justine+%F0%9F%91%8B;Full-Stack+Engineer;I+Build+Scalable+Digital+Products;From+Frontend+to+DevOps;Turning+Ideas+Into+Production" />
 <br/>
 
 <p>
@@ -18,7 +17,7 @@
 
 ---
 
-## About Me
+## 🧠 About Me
 
 ```ts
 const justine = {
