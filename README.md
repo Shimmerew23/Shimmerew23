@@ -281,6 +281,7 @@ theCartLy/
 ├── nginx.conf
 └── README.md
 ```
+</details>
 
 ---
 
