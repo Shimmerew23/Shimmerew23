@@ -29,7 +29,6 @@ const justine = {
 ## 🚀 Tech Stack
 
 <h3 align="center">🎨 Frontend</h3>
-<p align="center"> 
 <!-- Frontend --> 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
