@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=700&size=36&duration=2400&pause=800&color=0D47A1&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Justine+%F0%9F%91%8B;Full-Stack+Engineer;I+Build+Scalable+Digital+Products;From+Frontend+to+DevOps;Turning+Ideas+Into+Production" />
+<img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=700&size=36&duration=2400&pause=800&color=0D47A1&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Justine+%F0%9F%91%8B;Full-Stack+Engineer;I+Build+Scalable+Digital+Products;From+Frontend+to+DevOps;Turning+Ideas+Into+Production" />
 <br/>
 
 <p>
@@ -50,6 +50,7 @@ const justine = {
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/MQTT-FF6F00?style=flat-square&logo=mqtt&logoColor=white"/>
 <img src="https://img.shields.io/badge/WebSocket-009688?style=flat-square&logo=websocket&logoColor=white"/>
+<img src="https://img.shields.io/badge/Helmet-000000?style=flat-square&logo=helmet&logoColor=white"/>
 
 <!-- Databases --> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> 
@@ -67,7 +68,6 @@ const justine = {
 <!-- DevOps & Cloud --> 
 <p align="center">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Helmet-000000?style=flat-square&logo=helmet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" /> 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /> 
