@@ -88,7 +88,7 @@ const justine = {
 
 ---
 
-## Featured Project
+## **⭐ Featured Project**
 
 <table>
   <tr>
@@ -289,7 +289,7 @@ theCartLy/
 
 ---
 
-## GitHub Stats
+## **📊 GitHub Stats**
 
 <div align="center">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Shimmerew23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A237E&icon_color=635BFF&text_color=ffffff&count_private=true" alt=""/>
@@ -305,7 +305,7 @@ theCartLy/
 
 ---
 
-## 🔗 **Connect & Collaborate**
+## **🔗 Connect & Collaborate**
 
 <div align="center">
 
@@ -321,7 +321,7 @@ theCartLy/
 
 ---
 
-## 💡 What I Bring to Your Team
+## **💡 What I Bring to Your Team**
 ### **⚡ Immediate Value**
 - 🚀 **Product-Focused Engineering** — I build systems designed for real-world use: scalable architecture, secure APIs, and maintainable codebases.
 - 🧱 **Scalable Architecture** — Experience designing modular full-stack systems that grow with product demand.
