@@ -331,7 +331,7 @@ theCartLy/
 - 🤝 **Strong Team Contribution** — Clear communication, clean code practices, and thoughtful technical decision-making.
 
 ### **🚀 Innovation & Growth**
-- 🧠 **Cutting-edge technologies** (React 19, Next.js 16, TypeScript, Redux)
+- 🧠 **Cutting-edge technologies** (React 19, Next.js 16, TypeScript, Redux, Python, Node.js, Express.js)
 - 🛰️ **Specialized domains** (IoT, Automation/Scripting, Backend Development)
 - 📚 **Continuous Learning** — Always exploring new tools, patterns, and technologies to improve both product quality and developer experience.
 
