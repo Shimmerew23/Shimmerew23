@@ -143,7 +143,9 @@ const justine = {
               <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
               <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
               <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-              <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/> 
+              <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Render-1F1F1F?style=flat-square&logo=render&logoColor=white" />
+              <img src="https://img.shields.io/badge/Vercel-0D47A1?style=flat-square&logo=vercel&logoColor=white"/>
             </p>
           </div>
         </p>
