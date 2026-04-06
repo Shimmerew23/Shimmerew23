@@ -26,7 +26,7 @@ const justine = {
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <h3 align="center">🎨 Frontend</h3>
 <!-- Frontend --> 
@@ -126,7 +126,7 @@ const justine = {
           </div>
           <div>
           <br/>
-          <h3 align="center">🚀 Tech Stack</h3>
+          <h3 align="center">🛠️ Tech Stack & Tools</h3>
             <p>
               <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
               <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
