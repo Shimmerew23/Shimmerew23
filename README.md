@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=700&size=36&duration=2400&pause=800&color=0D47A1&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Justine+Psalm+Acosta%F0%9F%91%8B;Full-Stack+Engineer;I+Build+Scalable+Digital+Products;From+Frontend+to+DevOps;Turning+Ideas+Into+Production" />
+<img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=700&size=36&duration=2400&pause=800&color=0D47A1&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Justine+Psalm+Acosta%F0%9F%91%8B;Full-Stack+Developer;Building+Scalable+Digital+Products;From+Frontend+to+DevOps;Turning+Ideas+Into+Production" />
 <br/>
 
 <p>
