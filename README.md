@@ -75,6 +75,10 @@ const justine = {
 <img src="https://img.shields.io/badge/Render-1F1F1F?style=flat-square&logo=render&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-0D47A1?style=flat-square&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloudinary-1434C8?style=flat-square&logo=cloudinary&logoColor=white"/>
+<img src="https://img.shields.io/badge/Morgan-Logging-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Winston-Logging-231F20?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Morgan-Request_Logging-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Winston-Structured_Logging-231F20?style=flat-square&logo=nodedotjs&logoColor=white" />
 
 <!-- Testing & QA -->  
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> 
