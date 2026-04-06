@@ -321,7 +321,7 @@ theCartLy/
 
 ---
 
-## 💡 **What I Bring to Your Team**
+### 💡 **What I Bring to Your Team**
 - **Production Mindset** — I build systems designed for real-world use: scalable architecture, secure APIs, and maintainable codebases.
 - **End-to-End Development** — From frontend UI to backend services and DevOps deployment, I can own the entire product lifecycle.
 - **Security-First Engineering** — I prioritize application security with best practices like rate limiting, JWT authentication, secure headers, and input validation.
