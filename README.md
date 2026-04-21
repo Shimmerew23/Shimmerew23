@@ -4,9 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=3949AB&center=true&vCenter=true&width=700&lines=Building+Scalable+Digital+Products;Designing+Security-First+Architectures;From+Frontend+to+DevOps;Turning+Ideas+Into+Production" />
-
-<br/><br/>
+<br/>
 
 <p>
   <img src="https://img.shields.io/badge/🏗️_Architecture-Clean_%26_Modular-0D47A1?style=flat-square" />
@@ -29,6 +27,8 @@
 <div>
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
 </div>
+
+<br/>
 
 <br/>
 
