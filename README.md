@@ -1,7 +1,7 @@
 ## 🧠 About Me
 
 <div>
-  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300px" align="right" alt="A professional animation coder gif"/>
 </div>
 
 <br/>
