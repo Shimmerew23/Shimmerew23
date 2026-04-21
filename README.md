@@ -38,7 +38,7 @@
 
 ## 🧠 About Me
 
-<table border="" width="100%">
+<table border="0" width="100%">
 <tr>
 <td width="55%" valign="top">
 
