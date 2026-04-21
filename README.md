@@ -1,7 +1,18 @@
 ## 🧠 About Me
 
-<div>
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300px" align="right" alt="A professional animation coder gif"/>
+<div align="right">
+  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300">
+    <defs>
+      <radialGradient id="fadeEdges" cx="50%" cy="50%" r="50%">
+        <stop offset="55%" stop-color="white" stop-opacity="1"/>
+        <stop offset="100%" stop-color="white" stop-opacity="0"/>
+      </radialGradient>
+      <mask id="edgeMask">
+        <rect width="300" height="300" fill="url(#fadeEdges)"/>
+      </mask>
+    </defs>
+    <image xlink:href="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" height="300" mask="url(#edgeMask)"/>
+  </svg>
 </div>
 
 <br/>
