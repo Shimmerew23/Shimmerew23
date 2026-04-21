@@ -19,12 +19,6 @@
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning Emoji" width="25px" align="center" /> Always diving into <strong>new tech</strong> to stay ahead
   </li>
 </ul>
-  
-<br/>
-
-![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
-
-<br/>
 
 ---
 
@@ -358,5 +352,11 @@ theCartLy/
 <div align="center">
   <sub>Built with precision · Designed with purpose · Secured by default</sub>
 </div>
+
+<br/>
+
+![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
+
+<br/>
 
 
