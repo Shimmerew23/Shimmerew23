@@ -126,7 +126,7 @@
 
 ## **⭐ Featured Project**
 
-<table>
+<table border="0">
   <tr>
     <td width="60%">
       <h3>🛒 <a href="https://mcartly.vercel.app/">CartLy — Full-Stack eCommerce Platform</a></h3>
