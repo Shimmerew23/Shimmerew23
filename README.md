@@ -38,14 +38,27 @@
 
 ## 🧠 About Me
 
-```ts
-const justine = {
-  stack:    ["MongoDB", "Express.js", "React", "Node.js"],
-  focus:    ["Full-Stack Development", "REST API Design", "Security-First Architecture"],
-  current:  "Building CartLy — a production-grade MERN eCommerce platform",
-  hobbies:  ["Exploring new tech", "UI/UX design", "Clean code"],
-};
-```
+<table border="0" width="100%">
+<tr>
+<td width="55%" valign="top">
+
+**`> Shipping features by day, hardening APIs by night.`**
+
+<br/>
+
+- 🌐 &nbsp; Explore my work → **[justineacosta.vercel.app](https://justineacosta.vercel.app)**
+- 📬 &nbsp; Reach me at → **[justine.psalm23@gmail.com](mailto:justine.psalm23@gmail.com)**
+- 🛒 &nbsp; Currently building **CartLy** — a production-grade MERN eCommerce platform
+- 🔐 &nbsp; Passionate about **security-first architecture** and clean, auditable code
+- 🧠 &nbsp; Exploring **AI integrations** to build smarter user experiences
+- ⚡ &nbsp; Always leveling up with **new tools, patterns & tech**
+
+</td>
+<td width="45%" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340" alt="Developer illustration"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -324,6 +337,12 @@ theCartLy/
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shimmerew23&theme=tokyonight&hide_border=true&background=0D1117&stroke=1A237E&ring=635BFF&fire=635BFF&currStreakLabel=ffffff&sideLabels=ffffff&dates=999999" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Shimmerew23/Shimmerew23/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </div>
 
 ---
