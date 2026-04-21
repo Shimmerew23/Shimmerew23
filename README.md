@@ -4,10 +4,15 @@
 <br/>
 
 <p>
-  I build <strong>production-grade full-stack web applications</strong> with clean architecture,<br/>
-  comprehensive security, and modern editorial UI design.
+  Full-Stack Developer crafting <strong>scalable, secure, production-ready systems</strong> —<br/>
+  clean architecture &nbsp;·&nbsp; security-first APIs &nbsp;·&nbsp; modern editorial UIs
 </p>
-<img src="https://komarev.com/ghpvc/?username=Shimmerew23&style=flat-square&color=1A237E" alt="Profile Views"/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Shimmerew23&style=flat-square&color=1A237E" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Available-2e7d32?style=flat-square&logoColor=white" alt="Open to Work"/>
+</p>
 
 </div>
 
