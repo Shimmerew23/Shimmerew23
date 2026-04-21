@@ -38,14 +38,31 @@
 
 ## 🧠 About Me
 
-```ts
-const justine = {
-  stack:    ["MongoDB", "Express.js", "React", "Node.js"],
-  focus:    ["Full-Stack Development", "REST API Design", "Security-First Architecture"],
-  current:  "Building CartLy — a production-grade MERN eCommerce platform",
-  hobbies:  ["Exploring new tech", "UI/UX design", "Clean code"],
-};
-```
+> 🚀 **Coding like it's 2050, but debugging like it's 1999.**
+
+<table border="0" width="100%">
+  <tr>
+    <td valign="top" width="55%">
+      <ul>
+        <li>🌏 &nbsp;Based in <strong>Philippines</strong></li>
+        <li>💻 &nbsp;Explore My Work: <a href="https://justineacosta.vercel.app"><strong>Portfolio</strong></a></li>
+        <li>📬 &nbsp;Contact me @: <a href="mailto:justine.psalm23@gmail.com"><strong>justine.psalm23@gmail.com</strong></a></li>
+        <li>🏗️ &nbsp;Currently building <strong>CartLy — production-grade MERN eCommerce</strong></li>
+        <li>🧠 &nbsp;Exploring <strong>AI-assisted tooling</strong> to create smarter developer experiences</li>
+        <li>⚡ &nbsp;Always diving into <strong>new tech</strong> to stay ahead</li>
+      </ul>
+    </td>
+    <td valign="top" width="45%" align="center">
+      <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="340" alt="Coding gif"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Shimmerew23/Shimmerew23/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ---
 
