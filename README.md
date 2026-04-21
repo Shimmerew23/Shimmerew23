@@ -8,19 +8,13 @@
 
 <br/><br/>
 
-<table border="0" cellspacing="0" cellpadding="12">
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/🏗️_Architecture-Clean_%26_Modular-0D47A1?style=flat-square" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/🔐_Security-First_by_Default-1A237E?style=flat-square" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/🎨_UI_Design-Editorial_%26_Modern-3949AB?style=flat-square" />
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://img.shields.io/badge/🏗️_Architecture-Clean_%26_Modular-0D47A1?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🔐_Security-First_by_Default-1A237E?style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🎨_UI_Design-Editorial_%26_Modern-3949AB?style=flat-square" />
+</p>
 
 <br/>
 
