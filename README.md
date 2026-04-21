@@ -38,23 +38,22 @@
 
 ## 🧠 About Me
 
-<table border="0" width="100%">
+<table width="100%">
 <tr>
 <td width="55%" valign="top">
 
-**`> Shipping features by day, hardening APIs by night.`**
+🚀 &nbsp;**Coding clean systems by day, locking them down by night.**
 
 <br/>
 
-- 🌐 &nbsp; Explore my work → **[justineacosta.vercel.app](https://justineacosta.vercel.app)**
-- 📬 &nbsp; Reach me at → **[justine.psalm23@gmail.com](mailto:justine.psalm23@gmail.com)**
-- 🛒 &nbsp; Currently building **CartLy** — a production-grade MERN eCommerce platform
-- 🔐 &nbsp; Passionate about **security-first architecture** and clean, auditable code
-- 🧠 &nbsp; Exploring **AI integrations** to build smarter user experiences
-- ⚡ &nbsp; Always leveling up with **new tools, patterns & tech**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="20" />&nbsp;&nbsp; Explore My Work: &nbsp;**[justineacosta.vercel.app](https://justineacosta.vercel.app)**<br/><br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="20" />&nbsp;&nbsp; Contact me @: &nbsp;**[justine.psalm23@gmail.com](mailto:justine.psalm23@gmail.com)**<br/><br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Trophy.png" width="20" />&nbsp;&nbsp; Currently building **CartLy** — a production-grade MERN eCommerce platform<br/><br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20body/Brain.png" width="20" />&nbsp;&nbsp; Exploring **AI integrations** to build smarter user experiences<br/><br/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="20" />&nbsp;&nbsp; Always diving into **new tech** to stay ahead
 
 </td>
-<td width="45%" align="center">
+<td width="45%" align="right" valign="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340" alt="Developer illustration"/>
 </td>
 </tr>
