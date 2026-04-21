@@ -16,8 +16,6 @@
   <img src="https://img.shields.io/badge/🎨_UI_Design-Editorial_%26_Modern-3949AB?style=flat-square" />
 </p>
 
-<br/>
-
 <p>
   <img src="https://komarev.com/ghpvc/?username=Shimmerew23&style=flat-square&color=1A237E" alt="Profile Views"/>
   &nbsp;
@@ -27,8 +25,6 @@
 </p>
 
 </div>
-
----
 
 <div>
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
