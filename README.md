@@ -1,3 +1,40 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1,1A237E&height=160&section=header&text=Justine%20Psalm%20Acosta&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Security-First&descSize=17&descAlignY=60&descColor=c5cae9&fontFamily=Fira+Code" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=3949AB&center=true&vCenter=true&width=700&lines=Building+Scalable+Digital+Products;Designing+Security-First+Architectures;From+Frontend+to+DevOps;Turning+Ideas+Into+Production" />
+
+<br/><br/>
+
+<table border="0" cellspacing="0" cellpadding="12">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🏗️_Architecture-Clean_%26_Modular-0D47A1?style=flat-square" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🔐_Security-First_by_Default-1A237E?style=flat-square" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🎨_UI_Design-Editorial_%26_Modern-3949AB?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Shimmerew23&style=flat-square&color=1A237E" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2e7d32?style=flat-square" alt="Open to Work"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Stack-MERN-0D47A1?style=flat-square" alt="Stack"/>
+</p>
+
+</div>
+
+---
 
 <div>
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
