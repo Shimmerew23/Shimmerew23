@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1,1A237E&height=160&section=header&text=Justine%20Psalm%20Acosta&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Security-First&descSize=17&descAlignY=60&descColor=c5cae9" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1,1A237E&height=160&section=header&text=Justine%20Psalm%20Acosta&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Security-First&descSize=17&descAlignY=60&descColor=c5cae9&fontFamily=Fira+Code" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=600&size=22&duration=2600&pause=900&color=3949AB&center=true&vCenter=true&width=700&lines=Building+Scalable+Digital+Products;Designing+Security-First+Architectures;From+Frontend+to+DevOps;Turning+Ideas+Into+Production" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=3949AB&center=true&vCenter=true&width=700&lines=Building+Scalable+Digital+Products;Designing+Security-First+Architectures;From+Frontend+to+DevOps;Turning+Ideas+Into+Production" />
 
 <br/><br/>
 
