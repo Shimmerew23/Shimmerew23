@@ -15,7 +15,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=Shimmerew23&style=flat-square&color=1A237E" alt="Profile Views"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2e7d32?style=flat-square" alt="Open to Work"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2e7d32?style=flat-square" alt="Open to Collab."/>
   &nbsp;
   <img src="https://img.shields.io/badge/Stack-MERN-0D47A1?style=flat-square" alt="Stack"/>
 </p>
@@ -381,7 +381,7 @@ theCartLy/
 
 <br/>
 
-![gifgithub](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+![gifgithub](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzY3NjM4NzAsIm5iZiI6MTc3Njc2MzU3MCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDIxVDA5MjYxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI2MjU1NTQ0NjI4MTEyZjEwZTJjZjZjNDQwZTg4ZDdhYmU0MGVhMDZiOTliM2IwNGJiYjI0MzZiNDUwNDgyNGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.eGXOtEnePFC7_naTH3mqgLl3wIqQ-1SznAg9BQwxmHU)
 
 <br/>
 
