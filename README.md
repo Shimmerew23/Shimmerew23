@@ -349,14 +349,13 @@ theCartLy/
 
 ---
 
-<div align="center">
-  <sub>Built with precision · Designed with purpose · Secured by default</sub>
-</div>
-
 <br/>
 
 ![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
 
 <br/>
 
+<div align="center">
+  <sub>Built with precision · Designed with purpose · Secured by default</sub>
+</div>
 
