@@ -4,8 +4,6 @@
 
 <br/>
 
-<br/>
-
 <p>
   <img src="https://img.shields.io/badge/🏗️_Architecture-Clean_%26_Modular-0D47A1?style=flat-square" />
   &nbsp;
