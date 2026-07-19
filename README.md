@@ -113,7 +113,6 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> 
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white" />
 
 <!-- Auth & Security --> 
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
@@ -132,24 +131,10 @@
 <img src="https://img.shields.io/badge/Render-1F1F1F?style=flat-square&logo=render&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-0D47A1?style=flat-square&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloudinary-1434C8?style=flat-square&logo=cloudinary&logoColor=white"/>
-<img src="https://img.shields.io/badge/Morgan-Request_Logging-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Winston-Structured_Logging-231F20?style=flat-square&logo=nodedotjs&logoColor=white" />
 
 <!-- Testing & QA -->  
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> 
-
-<!-- Monorepo & Build Tools -->
-<img src="https://img.shields.io/badge/NX-143055?style=flat-square&logo=nx&logoColor=white" />
-<img src="https://img.shields.io/badge/Lerna-9333EA?style=flat-square&logo=lerna&logoColor=white" />
-
-<!-- Web Servers -->
-<img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" />
-<img src="https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white" />
-
-<!-- CMS & Site Builders -->
-<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-<img src="https://img.shields.io/badge/Wix-FAAD00?style=flat-square&logo=wix&logoColor=black" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 
 <!-- Marketing & Analytics -->
 <img src="https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=google&logoColor=white" />
