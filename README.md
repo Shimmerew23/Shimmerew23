@@ -221,13 +221,13 @@
 <div align="center">
   <img
     height="180px"
-    src="https://github-stats-extended.vercel.app/api?username=justineacosta&theme=dark&bg_color=00000000&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api?username=justineacosta&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=635BFF&text_color=ffffff&icon_color=635BFF&border_color=1A237E"
     alt="GitHub Stats"
   />
   &nbsp;&nbsp;
   <img
     height="180px"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=justineacosta&layout=compact&theme=dark&bg_color=00000000&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=justineacosta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=635BFF&text_color=ffffff&border_color=1A237E"
     alt="Top Languages"
   />
 </div>
