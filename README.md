@@ -231,8 +231,6 @@
   />
 </div>
 
-<br/>
-
 <div align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=justineacosta&theme=tokyonight&hide_border=true&background=0D1117&stroke=1A237E&ring=635BFF&fire=635BFF&currStreakLabel=ffffff&sideLabels=ffffff&dates=999999"
