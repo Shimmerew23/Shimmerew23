@@ -219,27 +219,20 @@
 ## **📊 GitHub Stats**
 
 <div align="center">
-  <img
-    height="180px"
-    src="https://github-stats-extended.vercel.app/api?username=justineacosta&theme=dark&bg_color=00000000&hide_border=true"
-    alt="GitHub Stats"
-  />
-  &nbsp;&nbsp;
-  <img
-    height="180px"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=justineacosta&theme=tokyonight&hide_border=true&background=0D1117&stroke=1A237E&ring=635BFF&fire=635BFF&currStreakLabel=ffffff&sideLabels=ffffff&dates=999999"
-    alt="GitHub Streak"
-  />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=justineacosta&theme=dark&bg_color=00000000&hide_border=true" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=justineacosta&layout=compact&theme=dark&bg_color=00000000&hide_border=true" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img
-    height="180px"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=justineacosta&layout=compact&theme=dark&bg_color=00000000&hide_border=true"
-    alt="Top Languages"
-  />
+  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=justineacosta&theme=dark&bg_color=00000000&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justineacosta&theme=tokyonight&hide_border=true&background=0D1117&stroke=1A237E&ring=635BFF&fire=635BFF&currStreakLabel=ffffff&sideLabels=ffffff&dates=999999" />
 </div>
 
 <br/> 
