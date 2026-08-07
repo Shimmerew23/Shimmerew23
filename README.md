@@ -224,6 +224,8 @@
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justineacosta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A237E&text_color=ffffff&langs_count=8" alt=""/> 
 </div> 
 
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=justineacosta&theme=dark)
+
 <br/> 
 
 <div align="center"> 
