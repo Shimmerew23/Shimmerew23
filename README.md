@@ -221,16 +221,16 @@
 <div align="center">
   <img
     height="180px"
-    src="https://readme-stats-github.pages.dev/api?username=justineacosta&theme=dark&hide_border=true&bg_color=0D1117"
+    src="https://readme-stats-github.pages.dev/api?username=justineacosta&theme=dark&bg_color=00000000&hide_border=true"
     alt="GitHub Stats"
   />
   &nbsp;&nbsp;
   <img
     height="180px"
-    src="https://readme-stats-github.pages.dev/api/top-langs?username=justineacosta&theme=dark&layout=compact&hide_border=true&bg_color=0D1117"
+    src="https://readme-stats-github.pages.dev/api/top-langs?username=justineacosta&theme=dark&layout=compact&bg_color=00000000&hide_border=true"
     alt="Top Languages"
   />
-</div> 
+</div>
 
 <br/> 
 
