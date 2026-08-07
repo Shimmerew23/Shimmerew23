@@ -220,9 +220,9 @@
 
 <div align="center">
   <img
-    height="180px"
-    src="https://github-stats-extended.vercel.app/api?username=justineacosta&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=635BFF&text_color=ffffff&icon_color=635BFF&border_color=1A237E&show_icons=true&include_all_commits=true&animate=true"
-    alt="GitHub Stats"
+  height="180px"
+  src="https://github-stats-extended.vercel.app/api?username=justineacosta&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=635BFF&text_color=ffffff&icon_color=635BFF&border_color=1A237E&show_icons=true&include_all_commits=true&rank_icon=github&animate=true"
+  alt="GitHub Stats"
   />
   &nbsp;&nbsp;
   <img
