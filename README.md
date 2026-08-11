@@ -51,12 +51,12 @@
 ---
 
 ## **💎 Key Achievements**
-- ⚡ Built full-stack platforms with multi-role systems (5+ roles)
-- 🔐 Implemented secure auth systems (JWT, OAuth, RBAC, Redis blacklist)
-- 🏛️ Shipped a production civic/government platform (permission-gated RBAC, RLS, audit logging)
+- ⚡ Built full-stack platforms with multi-role, permission-gated access control (5+ roles)
+- 🔐 Implemented layered security — JWT/OAuth auth, Redis-blacklisted refresh tokens, and Row-Level Security enforced at the database
+- 🏛️ Shipped a production civic/government platform with a full audit log and DB-backed rate limiting
 - 🚀 Delivered apps with 95+ Lighthouse performance scores
-- 📦 Designed production-ready architectures (Docker + NGINX + CI/CD-ready)
-- 🔄 Integrated real-time & async workflows (webhooks, caching, queues)
+- 📦 Designed production-ready architectures — Docker, Nginx, CI/CD-ready
+- 🔄 Integrated real-time & async workflows — webhooks, caching, notification polling
 
 ---
 
@@ -164,6 +164,7 @@
 
 ## **⭐ Portfolio Highlights**
 
+<!--
 <table border="0">
   <tr>
     <td width="60%">
@@ -193,13 +194,11 @@
               <img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white"/>
             </a>
           </div>
-          <!--
           <div>
             <a href="https://mcartly.vercel.app/">
               <img src="https://img.shields.io/badge/Live_Demo-0D47A1?style=flat-square&logo=vercel&logoColor=white"/>
             </a>
           </div>
-          -->
           <div>
           <br/>
           <h3 align="center">🛠️ Tech Stack & Tools</h3>
@@ -226,6 +225,7 @@
     </td>
   </tr>
 </table>
+-->
 
 <table border="0">
   <tr>
@@ -339,24 +339,16 @@
 ---
 
 ## **💡 What I Bring to Your Team**
-### **⚡ Immediate Value**
-- 🚀 **Product-Focused Engineering** — I build systems designed for real-world use: scalable architecture, secure APIs, and maintainable codebases.
-- 🧱 **Scalable Architecture** — Experience designing modular full-stack systems that grow with product demand.
-- 🔐 **Security by Default** — Implementing best practices across authentication, API protection, and infrastructure.
-- ⚡ **Performance & Reliability** — Building efficient APIs, leveraging caching, and designing fault-tolerant services.
-- 🧩 **Full-Stack Ownership** — Capable of delivering features from UI to backend to deployment pipelines.
-- 🤝 **Strong Team Contribution** — Clear communication, clean code practices, and thoughtful technical decision-making.
+### **⚡ Engineering Strengths**
+- 🧱 **Scalable Architecture** — Modular, feature-based systems that stay maintainable as products grow.
+- 🔐 **Security by Default** — RBAC, Row-Level Security, and rate limiting designed in from day one, not bolted on.
+- 🧩 **Full-Stack Ownership** — Comfortable end-to-end, from UI through backend to deployment.
+- ⚡ **Performance-Conscious** — 95+ Lighthouse scores, efficient caching, and fault-tolerant service design.
 
-### **🚀 Innovation & Growth**
-- 🧠 **Cutting-edge technologies** (React 19, Next.js 16, TypeScript, Redux, Supabase, Python, Node.js, Express.js)
-- 🛰️ **Specialized domains** (Civic Tech / GovTech, IoT, Automation/Scripting, Backend Development)
-- 📚 **Continuous Learning** — Always exploring new tools, patterns, and technologies to improve both product quality and developer experience.
-
-### **📊 Measurable Results**
-- 🎯 **Quantified impact** in every project
-- ⚡ **Performance optimization** (95+ Lighthouse scores)
-- 💼 **Business value** with ROI metrics
-- 🛡️ **Reliability** with 99.9% uptime
+### **🚀 Technology & Growth**
+- 🧠 **Current Stack** — React 19, Next.js 16, TypeScript, Redux, Supabase, Node.js, Express.js, Python.
+- 🛰️ **Domain Experience** — Civic Tech / GovTech, eCommerce, IoT, Automation/Scripting.
+- 📚 **Continuous Learning** — Picks up new tools and patterns quickly when a project calls for it.
 
 ---
 
