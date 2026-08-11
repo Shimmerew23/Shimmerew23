@@ -193,11 +193,13 @@
               <img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white"/>
             </a>
           </div>
+          <!--
           <div>
             <a href="https://mcartly.vercel.app/">
               <img src="https://img.shields.io/badge/Live_Demo-0D47A1?style=flat-square&logo=vercel&logoColor=white"/>
             </a>
           </div>
+          -->
           <div>
           <br/>
           <h3 align="center">🛠️ Tech Stack & Tools</h3>
@@ -255,6 +257,13 @@
               <img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white"/>
             </a>
           </div>
+          <!--
+          <div>
+            <a href="https://sanfernandoweb.example.com">
+              <img src="https://img.shields.io/badge/Live_Demo-0D47A1?style=flat-square&logo=vercel&logoColor=white"/>
+            </a>
+          </div>
+          -->
           <div>
           <br/>
           <h3 align="center">🛠️ Tech Stack & Tools</h3>
