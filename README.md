@@ -240,7 +240,6 @@
       <ul>
         <li>Four ticketing flows — applications, appointments, complaints, assistance requests — with a public status-tracking timeline</li>
         <li>Permission-gated RBAC admin portal — SuperAdmin + granular per-user permissions</li>
-        <li>Invite-only staff accounts — no password ever travels between staff, one-time email invite links</li>
         <li>Row-Level Security on every table; service-role writes gated behind explicit permission checks</li>
         <li>Cloudflare Turnstile + durable DB-backed rate limiting on every public form</li>
         <li>Six status-aware content managers (News, Events, Officials, Transparency Docs, etc.) with draft → review → publish → archive workflow</li>
