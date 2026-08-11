@@ -15,7 +15,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2e7d32?style=flat-square" alt="Open to Collab."/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Stack-MERN-0D47A1?style=flat-square" alt="Stack"/>
+  <img src="https://img.shields.io/badge/Stack-Full--Stack-0D47A1?style=flat-square" alt="Stack"/>
 </p>
 
 </div>
@@ -53,6 +53,7 @@
 ## **💎 Key Achievements**
 - ⚡ Built full-stack platforms with multi-role systems (5+ roles)
 - 🔐 Implemented secure auth systems (JWT, OAuth, RBAC, Redis blacklist)
+- 🏛️ Shipped a production civic/government platform (permission-gated RBAC, RLS, audit logging)
 - 🚀 Delivered apps with 95+ Lighthouse performance scores
 - 📦 Designed production-ready architectures (Docker + NGINX + CI/CD-ready)
 - 🔄 Integrated real-time & async workflows (webhooks, caching, queues)
@@ -114,11 +115,19 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+
+<!-- Validation --> 
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" />
+
+<!-- Email --> 
+<img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white" />
 
 <!-- Auth & Security --> 
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=black" /> 
+<img src="https://img.shields.io/badge/Cloudflare_Turnstile-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
 </p>
 
 <h3 align="center">🛠️ DevOps & Tools</h3>
@@ -137,6 +146,8 @@
 
 <!-- Testing & QA -->  
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> 
 
 <!-- Monorepo & Build Tools -->
@@ -363,6 +374,59 @@ theCartLy/
 ```
 </details>
 
+<table border="0">
+  <tr>
+    <td width="60%">
+      <h3>🏛️ <a href="https://github.com/justineacosta/SanFernandoWeb">Barangay San Fernando — Official Government Website</a></h3>
+      <p>
+        A <strong>production-grade civic platform</strong> for Barangay San Fernando, San Nicolas,
+        Ilocos Norte (Philippines) — a public resident site paired with a permission-gated
+        staff admin portal, backed by Supabase.
+      </p>
+      <b>Highlights:</b>
+      <ul>
+        <li>Four ticketing flows — applications, appointments, complaints, assistance requests — with a public status-tracking timeline</li>
+        <li>Permission-gated RBAC admin portal — SuperAdmin + granular per-user permissions</li>
+        <li>Invite-only staff accounts — no password ever travels between staff, one-time email invite links</li>
+        <li>Row-Level Security on every table; service-role writes gated behind explicit permission checks</li>
+        <li>Cloudflare Turnstile + durable DB-backed rate limiting on every public form</li>
+        <li>Six status-aware content managers (News, Events, Officials, Transparency Docs, etc.) with draft → review → publish → archive workflow</li>
+        <li>Transactional email via Resend for receipts, outcome notices, and invites</li>
+        <li>Full audit log, signed URLs for private media, and a scoped CSP with security headers</li>
+        <li>Deployed to production — Next.js 16 + React 19 Server Components/Actions</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <br/>
+        <p>
+          <div>
+            <a href="https://github.com/justineacosta/SanFernandoWeb">
+              <img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white"/>
+            </a>
+          </div>
+          <div>
+          <br/>
+          <h3 align="center">🛠️ Tech Stack & Tools</h3>
+            <p>
+              <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+              <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+              <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+              <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Cloudflare_Turnstile-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+            </p>
+          </div>
+        </p>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## **📊 GitHub Stats**
@@ -417,8 +481,8 @@ theCartLy/
 - 🤝 **Strong Team Contribution** — Clear communication, clean code practices, and thoughtful technical decision-making.
 
 ### **🚀 Innovation & Growth**
-- 🧠 **Cutting-edge technologies** (React 19, Next.js 16, TypeScript, Redux, Python, Node.js, Express.js)
-- 🛰️ **Specialized domains** (IoT, Automation/Scripting, Backend Development)
+- 🧠 **Cutting-edge technologies** (React 19, Next.js 16, TypeScript, Redux, Supabase, Python, Node.js, Express.js)
+- 🛰️ **Specialized domains** (Civic Tech / GovTech, IoT, Automation/Scripting, Backend Development)
 - 📚 **Continuous Learning** — Always exploring new tools, patterns, and technologies to improve both product quality and developer experience.
 
 ### **📊 Measurable Results**
