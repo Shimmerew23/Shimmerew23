@@ -167,10 +167,75 @@
 
 ## **⭐ Portfolio Highlights**
 
+<details open>
+<summary><h3>🏛️ <a href="https://github.com/justineacosta/SanFernandoWeb">Barangay San Fernando — Official Government Website</a></h3></summary>
+
 <table border="0">
   <tr>
     <td width="60%">
-      <h3>🛒 <a href="https://mcartly.vercel.app/">CartLy — Full-Stack eCommerce Platform</a></h3>
+      <p>
+        A <strong>production-grade civic platform</strong> for Barangay San Fernando, San Nicolas,
+        Ilocos Norte (Philippines) — a public resident site paired with a permission-gated
+        staff admin portal, backed by Supabase.
+      </p>
+      <b>Highlights:</b>
+      <ul>
+        <li>Four ticketing flows — applications, appointments, complaints, assistance requests — with a public status-tracking timeline</li>
+        <li>Permission-gated RBAC admin portal — SuperAdmin + granular per-user permissions</li>
+        <li>Row-Level Security on every table; service-role writes gated behind explicit permission checks</li>
+        <li>Cloudflare Turnstile + durable DB-backed rate limiting on every public form</li>
+        <li>Six status-aware content managers (News, Events, Officials, Transparency Docs, etc.) with draft → review → publish → archive workflow</li>
+        <li>Transactional email via Resend for receipts, outcome notices, and invites</li>
+        <li>Full audit log, signed URLs for private media, and a scoped CSP with security headers</li>
+        <li>Deployed to production — Next.js 16 + React 19 Server Components/Actions</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <br/>
+        <p>
+          <div>
+            <a href="https://github.com/justineacosta/SanFernandoWeb">
+              <img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white"/>
+            </a>
+          </div>
+          <!--
+          <div>
+            <a href="https://sanfernandoweb.example.com">
+              <img src="https://img.shields.io/badge/Live_Demo-0D47A1?style=flat-square&logo=vercel&logoColor=white"/>
+            </a>
+          </div>
+          -->
+          <div>
+          <br/>
+          <h3 align="center">🛠️ Tech Stack & Tools</h3>
+            <p>
+              <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+              <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+              <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+              <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Cloudflare_Turnstile-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+            </p>
+          </div>
+        </p>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+<details>
+<summary><h3>🛒 <a href="https://mcartly.vercel.app/">CartLy — Full-Stack eCommerce Platform</a></h3></summary>
+
+<table border="0">
+  <tr>
+    <td width="60%">
       <p>
         A <strong>production-grade MERN eCommerce platform</strong> with enterprise-level architecture,
         multi-role access control, real-time payments, and a modern editorial UI.
@@ -228,69 +293,14 @@
   </tr>
 </table>
 
-<table border="0">
-  <tr>
-    <td width="60%">
-      <h3>🏛️ <a href="https://github.com/justineacosta/SanFernandoWeb">Barangay San Fernando — Official Government Website</a></h3>
-      <p>
-        A <strong>production-grade civic platform</strong> for Barangay San Fernando, San Nicolas,
-        Ilocos Norte (Philippines) — a public resident site paired with a permission-gated
-        staff admin portal, backed by Supabase.
-      </p>
-      <b>Highlights:</b>
-      <ul>
-        <li>Four ticketing flows — applications, appointments, complaints, assistance requests — with a public status-tracking timeline</li>
-        <li>Permission-gated RBAC admin portal — SuperAdmin + granular per-user permissions</li>
-        <li>Row-Level Security on every table; service-role writes gated behind explicit permission checks</li>
-        <li>Cloudflare Turnstile + durable DB-backed rate limiting on every public form</li>
-        <li>Six status-aware content managers (News, Events, Officials, Transparency Docs, etc.) with draft → review → publish → archive workflow</li>
-        <li>Transactional email via Resend for receipts, outcome notices, and invites</li>
-        <li>Full audit log, signed URLs for private media, and a scoped CSP with security headers</li>
-        <li>Deployed to production — Next.js 16 + React 19 Server Components/Actions</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <br/>
-        <p>
-          <div>
-            <a href="https://github.com/justineacosta/SanFernandoWeb">
-              <img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white"/>
-            </a>
-          </div>
-          <!--
-          <div>
-            <a href="https://sanfernandoweb.example.com">
-              <img src="https://img.shields.io/badge/Live_Demo-0D47A1?style=flat-square&logo=vercel&logoColor=white"/>
-            </a>
-          </div>
-          -->
-          <div>
-          <br/>
-          <h3 align="center">🛠️ Tech Stack & Tools</h3>
-            <p>
-              <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-              <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-              <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-              <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-              <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
-              <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-              <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white"/>
-              <img src="https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white"/>
-              <img src="https://img.shields.io/badge/Cloudflare_Turnstile-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
-              <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
-              <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/>
-              <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-            </p>
-          </div>
-        </p>
-    </td>
-  </tr>
-</table>
+</details>
+
+<details>
+<summary><h3>🚚 <a href="https://github.com/justineacosta/LogisticsDelivery">Velocita Logistics — Enterprise Logistics & Tracking Platform</a></h3></summary>
 
 <table border="0">
   <tr>
     <td width="60%">
-      <h3>🚚 <a href="https://github.com/justineacosta/LogisticsDelivery">Velocita Logistics — Enterprise Logistics & Tracking Platform</a></h3>
       <p>
         A premium, enterprise-grade logistics company website with a real shipment-tracking
         system, lead-capture forms, and a role-gated admin dashboard.
@@ -334,10 +344,14 @@
   </tr>
 </table>
 
+</details>
+
+<details>
+<summary><h3>💬 <a href="https://github.com/justineacosta/myDMproject">Verdant — Real-Time Encrypted Messaging Platform</a></h3></summary>
+
 <table border="0">
   <tr>
     <td width="60%">
-      <h3>💬 <a href="https://github.com/justineacosta/myDMproject">Verdant — Real-Time Encrypted Messaging Platform</a></h3>
       <p>
         A full-stack, chat-app-style messaging platform — real-time conversations, groups,
         channels, and status updates over Socket.io, with Firebase Auth and a hardened
@@ -384,10 +398,14 @@
   </tr>
 </table>
 
+</details>
+
+<details>
+<summary><h3>🏗️ <a href="https://github.com/justineacosta/ConstructionEng">ConstructEng — Construction & Engineering Company Website</a></h3></summary>
+
 <table border="0">
   <tr>
     <td width="60%">
-      <h3>🏗️ <a href="https://github.com/justineacosta/ConstructionEng">ConstructEng — Construction & Engineering Company Website</a></h3>
       <p>
         A production-ready, multi-page marketing site for a construction & engineering
         company, with a GSAP-driven horizontal project showcase and a full content system
@@ -429,6 +447,8 @@
     </td>
   </tr>
 </table>
+
+</details>
 
 ---
 
