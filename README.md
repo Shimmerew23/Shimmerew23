@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1,1A237E&height=160&section=header&text=Justine%20Psalm%20Acosta&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descSize=17&descAlignY=60&descColor=c5cae9&fontFamily=Fira+Code" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1A237E,635BFF&height=220&section=header&text=Justine%20Psalm%20Acosta&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20AI%20%26amp%3B%20Prompt%20Engineer&descSize=18&descAlignY=60&descColor=A5B4FC&fontFamily=Fira%20Code&animation=twinkling&stroke=635BFF&strokeWidth=2" />
 
 <p>
   <img src="https://img.shields.io/badge/🏗️_Architecture-Clean_%26_Modular-0D47A1?style=flat-square" />
@@ -114,7 +114,6 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> 
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
 
 <!-- Validation --> 
@@ -141,26 +140,12 @@
 <img src="https://img.shields.io/badge/Render-1F1F1F?style=flat-square&logo=render&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-0D47A1?style=flat-square&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloudinary-1434C8?style=flat-square&logo=cloudinary&logoColor=white"/>
-<img src="https://img.shields.io/badge/Morgan-Request_Logging-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Winston-Structured_Logging-231F20?style=flat-square&logo=nodedotjs&logoColor=white" />
 
 <!-- Testing & QA -->  
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
 <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> 
-
-<!-- Monorepo & Build Tools -->
-<img src="https://img.shields.io/badge/NX-143055?style=flat-square&logo=nx&logoColor=white" />
-<img src="https://img.shields.io/badge/Lerna-9333EA?style=flat-square&logo=lerna&logoColor=white" />
-
-<!-- Web Servers -->
-<img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" />
-<img src="https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white" />
-
-<!-- CMS & Site Builders -->
-<img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-<img src="https://img.shields.io/badge/Wix-FAAD00?style=flat-square&logo=wix&logoColor=black" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 
 <!-- Marketing & Analytics -->
 <img src="https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=google&logoColor=white" />
@@ -240,140 +225,6 @@
   </tr>
 </table>
 
-<details>
-  <summary>📂 Project Structure</summary>
-
-```text
-theCartLy/
-├── backend/
-│   ├── config/
-│   │   ├── cloudinary.js       # Cloudinary client, uploadBuffer (UUID public_id), deleteImage helpers
-│   │   ├── db.js               # MongoDB connection
-│   │   ├── passport.js         # Passport strategies (Google, JWT)
-│   │   └── redis.js            # Redis client setup
-│   ├── controllers/
-│   │   ├── authController.js      # register, login, logout, OAuth, password reset, email verify
-│   │   ├── carrierController.js   # Shipping carrier CRUD
-│   │   ├── orderController.js     # Order create/read/update, Stripe webhook
-│   │   ├── productController.js   # Product CRUD, seller products, wishlist, stats
-│   │   ├── warehouseController.js # Warehouse CRUD + parcel scan + check-in
-│   │   └── index.js               # Re-exports all controller functions
-│   ├── middleware/
-│   │   └── index.js            # authenticate, RBAC, rate limiters, upload (Cloudinary), validate, cache, audit
-│   ├── models/
-│   │   ├── Carrier.js          # Shipping carrier schema
-│   │   ├── Order.js            # Order schema (statusHistory includes warehouseName)
-│   │   ├── Product.js          # Product schema
-│   │   ├── User.js             # User schema (user/seller/admin/superadmin/warehouse)
-│   │   ├── Warehouse.js        # Warehouse entity schema (linked to User manager)
-│   │   └── index.js            # Re-exports all models
-│   ├── routes/
-│   │   └── index.js            # All route definitions (auth, products, orders, admin, etc.)
-│   ├── utils/
-│   │   ├── ApiError.js         # Custom error class
-│   │   ├── ApiResponse.js      # Standardized response wrapper
-│   │   ├── email.js            # Nodemailer email service
-│   │   ├── jwt.js              # JWT sign/verify helpers
-│   │   ├── logger.js           # Winston logger
-│   │   └── seeder.js           # DB seed script
-│   ├── logs/
-│   │   ├── combined.log
-│   │   ├── error.log
-│   │   ├── exceptions.log
-│   │   └── rejections.log
-│   ├── server.js               # Express entry point
-│   ├── .env.example
-│   ├── Dockerfile
-│   └── package.json
-├── frontend/
-│   ├── src/
-│   │   ├── api/
-│   │   │   └── axios.ts        # Axios instance with interceptors + token refresh
-│   │   ├── components/
-│   │   │   ├── auth/
-│   │   │   │   └── ProtectedRoute.tsx
-│   │   │   ├── cart/
-│   │   │   │   └── CartSidebar.tsx
-│   │   │   ├── feedback/
-│   │   │   │   └── FeedbackModal.tsx
-│   │   │   ├── layout/
-│   │   │   │   ├── AdminLayout.tsx
-│   │   │   │   ├── Footer.tsx
-│   │   │   │   ├── MainLayout.tsx
-│   │   │   │   ├── Navbar.tsx
-│   │   │   │   ├── SellerLayout.tsx
-│   │   │   │   └── WarehouseLayout.tsx
-│   │   │   └── products/
-│   │   │       └── ProductCard.tsx
-│   │   ├── hooks/
-│   │   │   └── useOrderStatusUpdate.ts
-│   │   ├── pages/
-│   │   │   ├── BecomeSeller.tsx
-│   │   │   ├── Cart.tsx
-│   │   │   ├── Checkout.tsx
-│   │   │   ├── ForgotPassword.tsx
-│   │   │   ├── Home.tsx
-│   │   │   ├── Login.tsx
-│   │   │   ├── OAuthCallback.tsx
-│   │   │   ├── OrderDetail.tsx
-│   │   │   ├── Orders.tsx
-│   │   │   ├── ProductDetail.tsx
-│   │   │   ├── Products.tsx
-│   │   │   ├── Profile.tsx
-│   │   │   ├── Register.tsx
-│   │   │   ├── ResetPassword.tsx
-│   │   │   ├── Store.tsx
-│   │   │   ├── VerifyEmail.tsx
-│   │   │   ├── Wishlist.tsx
-│   │   │   ├── admin/
-│   │   │   │   ├── AuditLogs.tsx
-│   │   │   │   ├── Carriers.tsx
-│   │   │   │   ├── Categories.tsx
-│   │   │   │   ├── Coupons.tsx
-│   │   │   │   ├── Dashboard.tsx
-│   │   │   │   ├── Feedback.tsx
-│   │   │   │   ├── Orders.tsx
-│   │   │   │   ├── Products.tsx
-│   │   │   │   ├── Users.tsx
-│   │   │   │   └── Warehouses.tsx
-│   │   │   ├── seller/
-│   │   │   │   ├── AddProduct.tsx
-│   │   │   │   ├── Dashboard.tsx
-│   │   │   │   ├── EditProduct.tsx
-│   │   │   │   ├── Orders.tsx
-│   │   │   │   ├── Products.tsx
-│   │   │   │   └── Profile.tsx
-│   │   │   └── warehouse/
-│   │   │       └── Scan.tsx
-│   │   ├── store/
-│   │   │   ├── slices/
-│   │   │   │   ├── authSlice.ts
-│   │   │   │   ├── cartSlice.ts
-│   │   │   │   ├── productSlice.ts
-│   │   │   │   └── uiSlice.ts
-│   │   │   └── index.ts        # Redux store configuration
-│   │   ├── types/
-│   │   │   └── index.ts        # TypeScript interfaces & types
-│   │   ├── utils/
-│   │   │   └── fuzzy.ts        # Fuzzy search utility
-│   │   ├── App.tsx
-│   │   ├── index.css           # Tailwind + custom design system
-│   │   └── main.tsx
-│   ├── Dockerfile
-│   ├── index.html
-│   ├── nginx-spa.conf          # Nginx SPA config
-│   ├── package.json
-│   ├── postcss.config.js
-│   ├── tailwind.config.js
-│   ├── tsconfig.json
-│   ├── tsconfig.node.json
-│   └── vite.config.ts
-├── docker-compose.yml
-├── nginx.conf
-└── README.md
-```
-</details>
-
 <table border="0">
   <tr>
     <td width="60%">
@@ -431,17 +282,25 @@ theCartLy/
 
 ## **📊 GitHub Stats**
 
-<div align="center"> 
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=justineacosta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A237E&icon_color=635BFF&text_color=ffffff&count_private=true" alt=""/> 
-  &nbsp;&nbsp; 
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justineacosta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1A237E&text_color=ffffff&langs_count=8" alt=""/> 
-</div> 
+<div align="center">
+  <img
+  height="180px"
+  src="https://github-stats-extended.vercel.app/api?username=justineacosta&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=635BFF&text_color=ffffff&icon_color=635BFF&border_color=1A237E&show_icons=true&include_all_commits=true&rank_icon=github&animate=true"
+  alt="GitHub Stats"
+  />
+  <img
+    height="180px"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=justineacosta&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=635BFF&text_color=ffffff&border_color=1A237E&animate=true"
+    alt="Top Languages"
+  />
+</div>
 
-<br/> 
-
-<div align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=justineacosta&theme=tokyonight&hide_border=true&background=0D1117&stroke=1A237E&ring=635BFF&fire=635BFF&currStreakLabel=ffffff&sideLabels=ffffff&dates=999999" alt="GitHub Streak"/> 
-</div> 
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=justineacosta&theme=tokyonight&hide_border=true&background=0D1117&stroke=1A237E&ring=635BFF&fire=635BFF&currStreakLabel=ffffff&sideLabels=ffffff&dates=999999"
+    alt="GitHub Streak"
+  />
+</div>
 
 <br/> 
 
