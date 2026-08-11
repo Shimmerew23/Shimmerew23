@@ -56,7 +56,7 @@
 - 🏛️ Shipped a production civic/government platform with a full audit log and DB-backed rate limiting
 - 🚀 Delivered apps with 95+ Lighthouse performance scores
 - 📦 Designed production-ready architectures — Docker, Nginx, CI/CD-ready
-- 🔄 Integrated real-time & async workflows — webhooks, caching, notification polling
+- 🔄 Integrated real-time & async workflows — Socket.io messaging, webhooks, caching, notification polling
 
 ---
 
@@ -79,6 +79,7 @@
 <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square" /> 
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" /> 
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" /> 
@@ -104,6 +105,7 @@
 <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/MQTT-FF6F00?style=flat-square&logo=mqtt&logoColor=white"/>
 <img src="https://img.shields.io/badge/WebSocket-009688?style=flat-square&logo=websocket&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Helmet-000000?style=flat-square&logo=helmet&logoColor=white"/>
 
 <!-- Databases --> 
@@ -126,6 +128,7 @@
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=black" /> 
+<img src="https://img.shields.io/badge/Auth.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloudflare_Turnstile-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
 </p>
 
@@ -164,7 +167,6 @@
 
 ## **⭐ Portfolio Highlights**
 
-<!--
 <table border="0">
   <tr>
     <td width="60%">
@@ -225,7 +227,6 @@
     </td>
   </tr>
 </table>
--->
 
 <table border="0">
   <tr>
@@ -278,6 +279,149 @@
               <img src="https://img.shields.io/badge/Cloudflare_Turnstile-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
               <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
               <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+            </p>
+          </div>
+        </p>
+    </td>
+  </tr>
+</table>
+
+<table border="0">
+  <tr>
+    <td width="60%">
+      <h3>🚚 <a href="https://github.com/justineacosta/LogisticsDelivery">Velocita Logistics — Enterprise Logistics & Tracking Platform</a></h3>
+      <p>
+        A premium, enterprise-grade logistics company website with a real shipment-tracking
+        system, lead-capture forms, and a role-gated admin dashboard.
+      </p>
+      <b>Highlights:</b>
+      <ul>
+        <li>14 marketing pages (Home, About, Services, Fleet, Tracking, Pricing, Industries, Careers, Blog, Contact, etc.) plus an admin dashboard</li>
+        <li>Real shipment tracking UI backed by Prisma/PostgreSQL, looked up by tracking number</li>
+        <li>Auth.js (NextAuth v5) — credentials + Google OAuth, Prisma adapter, role-gated <code>/admin</code> (Admin/Staff)</li>
+        <li>Quote, contact, and newsletter forms — server-validated with Zod and rate-limited</li>
+        <li>SEO: dynamic per-page metadata, generated OG images, sitemap, robots, JSON-LD schema</li>
+        <li>Server Components by default, optimized fonts/images, strict security headers</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <br/>
+        <p>
+          <div>
+            <a href="https://github.com/justineacosta/LogisticsDelivery">
+              <img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white"/>
+            </a>
+          </div>
+          <div>
+          <br/>
+          <h3 align="center">🛠️ Tech Stack & Tools</h3>
+            <p>
+              <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+              <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+              <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+              <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Auth.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+            </p>
+          </div>
+        </p>
+    </td>
+  </tr>
+</table>
+
+<table border="0">
+  <tr>
+    <td width="60%">
+      <h3>💬 <a href="https://github.com/justineacosta/myDMproject">Verdant — Real-Time Encrypted Messaging Platform</a></h3>
+      <p>
+        A full-stack, chat-app-style messaging platform — real-time conversations, groups,
+        channels, and status updates over Socket.io, with Firebase Auth and a hardened
+        Express/PostgreSQL backend.
+      </p>
+      <b>Highlights:</b>
+      <ul>
+        <li>Real-time messaging — read receipts, typing indicators, reactions, replies, edit/soft-delete, cursor-based pagination</li>
+        <li>Group conversations with Owner/Admin/Member roles, plus channels and communities</li>
+        <li>Firebase Auth (email/password + Google OAuth) synced to a Postgres user table via Prisma</li>
+        <li>Redis-backed presence (TTL auto-expiry) and Socket.io for live events</li>
+        <li>Full-text message search, file/image attachments, message forwarding, 24h status updates</li>
+        <li>Helmet, express-rate-limit, and Zod validation on every write; session tracking with device/IP + revocation</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <br/>
+        <p>
+          <div>
+            <a href="https://github.com/justineacosta/myDMproject">
+              <img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white"/>
+            </a>
+          </div>
+          <div>
+          <br/>
+          <h3 align="center">🛠️ Tech Stack & Tools</h3>
+            <p>
+              <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+              <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+              <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+              <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+              <img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square"/>
+              <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white"/>
+            </p>
+          </div>
+        </p>
+    </td>
+  </tr>
+</table>
+
+<table border="0">
+  <tr>
+    <td width="60%">
+      <h3>🏗️ <a href="https://github.com/justineacosta/ConstructionEng">ConstructEng — Construction & Engineering Company Website</a></h3>
+      <p>
+        A production-ready, multi-page marketing site for a construction & engineering
+        company, with a GSAP-driven horizontal project showcase and a full content system
+        for services, projects, and blog.
+      </p>
+      <b>Highlights:</b>
+      <ul>
+        <li>Home, About, Services, Projects, Blog, and Contact — each with dedicated sections (stats, process, testimonials, FAQ)</li>
+        <li>GSAP + ScrollTrigger horizontal-scroll project showcase, Lenis smooth scrolling, Framer Motion reveal animations</li>
+        <li>Filterable project gallery with before/after comparisons</li>
+        <li>Contact form with validation</li>
+        <li>Dynamic OG images, sitemap, robots, and JSON-LD SEO helpers</li>
+        <li>Radix UI primitives (Accordion, Tabs, Dialog) in a shadcn-style component system</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <br/>
+        <p>
+          <div>
+            <a href="https://github.com/justineacosta/ConstructionEng">
+              <img src="https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white"/>
+            </a>
+          </div>
+          <div>
+          <br/>
+          <h3 align="center">🛠️ Tech Stack & Tools</h3>
+            <p>
+              <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+              <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+              <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+              <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black"/>
+              <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white"/>
               <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
             </p>
           </div>
@@ -346,8 +490,8 @@
 - ⚡ **Performance-Conscious** — 95+ Lighthouse scores, efficient caching, and fault-tolerant service design.
 
 ### **🚀 Technology & Growth**
-- 🧠 **Current Stack** — React 19, Next.js 16, TypeScript, Redux, Supabase, Node.js, Express.js, Python.
-- 🛰️ **Domain Experience** — Civic Tech / GovTech, eCommerce, IoT, Automation/Scripting.
+- 🧠 **Current Stack** — React 19, Next.js 16, TypeScript, Redux, Prisma, Supabase, Node.js, Express.js, Python.
+- 🛰️ **Domain Experience** — Civic Tech / GovTech, eCommerce, Real-Time Messaging, Enterprise Marketing Sites, IoT, Automation/Scripting.
 - 📚 **Continuous Learning** — Picks up new tools and patterns quickly when a project calls for it.
 
 ---
