@@ -462,7 +462,7 @@
   />
   <img
     height="180px"
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=justineacosta&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=635BFF&text_color=ffffff&border_color=1A237E&animate=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=justineacosta&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=635BFF&text_color=ffffff&border_color=1A237E&animate=true"
     alt="Top Languages"
   />
 </div>
