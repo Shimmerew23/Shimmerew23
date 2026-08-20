@@ -469,7 +469,7 @@
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=justineacosta&theme=tokyonight&hide_border=true&background=0D1117&stroke=1A237E&ring=635BFF&fire=635BFF&currStreakLabel=ffffff&sideLabels=ffffff&dates=999999"
+    src="https://streak-stats.demolab.com?user=justineacosta&theme=tokyonight&hide_border=true&background=0D1117&stroke=1A237E&ring=635BFF&fire=635BFF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=999999"
     alt="GitHub Streak"
   />
 </div>
